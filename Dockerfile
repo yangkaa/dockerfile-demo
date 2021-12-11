@@ -1,2 +1,2 @@
-FROM goodrain.me/songyg-app-623df27a-wordpress:20211211150555
+FROM registry.cn-hangzhou.aliyuncs.com/yangk_rainbond/app_test:v1
 EXPOSE 80
